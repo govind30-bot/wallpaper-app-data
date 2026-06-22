@@ -1,1 +1,8 @@
-
+[
+  {
+    "id": 1,
+    "name": "Wallpaper 1",
+    "image": "https://raw.githubusercontent.com/govind30-bot/wallpaper-app-data/main/8e1db21c6bb8be4a8c541f7c84552f92.jpg",
+    "category": "Nature"
+  }
+]
